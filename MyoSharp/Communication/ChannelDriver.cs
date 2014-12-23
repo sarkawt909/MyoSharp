@@ -120,7 +120,7 @@ namespace MyoSharp.Communication
             {
                 _channelBridge.Run32(
                     hubHandle,
-                    1000 / 20,
+                    1000,
                     handler,
                     userData,
                     IntPtr.Zero);
@@ -129,7 +129,7 @@ namespace MyoSharp.Communication
             {
                 _channelBridge.Run64(
                      hubHandle,
-                     1000 / 20,
+                     1000,
                      handler,
                      userData,
                      IntPtr.Zero);

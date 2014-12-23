@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoSharp", "MyoSharp\MyoSha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoSharp.ConsoleSample", "MyoSharp.ConsoleSample\MyoSharp.ConsoleSample.csproj", "{27DA6BB8-8526-437E-9293-A877FC175653}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyoSharp.EmgVisualization", "MyoSharp.EmgVisualization\MyoSharp.EmgVisualization.csproj", "{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,12 @@ Global
 		{27DA6BB8-8526-437E-9293-A877FC175653}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27DA6BB8-8526-437E-9293-A877FC175653}.Release|Any CPU.Build.0 = Release|Any CPU
 		{27DA6BB8-8526-437E-9293-A877FC175653}.Release|x86.ActiveCfg = Release|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{772BB1CE-8C9A-4D7F-A2FB-A625B8B0FDEF}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
